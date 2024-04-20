@@ -20,8 +20,8 @@
             <nav>
                 <ul>
                     <li><a href="#intro">Welcome</a></li>
-                    <li><a href="#one">Who we are</a></li>
-                    <li><a href="#two">What we do</a></li>
+                    <li><a href="#one">My Project</a></li>
+                    {{-- <li><a href="#two">What we do</a></li> --}}
                     <li><a href="#three">Get in touch</a></li>
                 </ul>
             </nav>
@@ -34,49 +34,51 @@
         <!-- Intro -->
         <section id="intro" class="wrapper style1 fullscreen fade-up">
             <div class="inner">
-                <h1>Hyperspace</h1>
-                <p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-                and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
-                <ul class="actions">
+                <h1>Project Palette by Aina Zuhairah</h1>
+                <p>Some mini projects that I have worked on since April 2024.</p>
+                {{-- <ul class="actions">
                     <li><a href="#one" class="button scrolly">Learn more</a></li>
-                </ul>
+                </ul> --}}
             </div>
         </section>
 
         <!-- One -->
         <section id="one" class="wrapper style2 spotlights">
             <section>
-                <a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+                {{-- <a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a> --}}
                 <div class="content">
                     <div class="inner">
-                        <h2>Sed ipsum dolor</h2>
+                        <h2>Project 1</h2>
                         <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
                         <ul class="actions">
-                            <li><a href="generic.html" class="button">Learn more</a></li>
+                            <li><a href="generic.html" class="button">Demo</a></li>
+                            <li><a href="generic.html" class="button">Github</a></li>
                         </ul>
                     </div>
                 </div>
             </section>
             <section>
-                <a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+                {{-- <a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a> --}}
                 <div class="content">
                     <div class="inner">
-                        <h2>Feugiat consequat</h2>
+                        <h2>Project 2</h2>
                         <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
                         <ul class="actions">
-                            <li><a href="generic.html" class="button">Learn more</a></li>
+                            <li><a href="generic.html" class="button">Demo</a></li>
+                            <li><a href="generic.html" class="button">Github</a></li>
                         </ul>
                     </div>
                 </div>
             </section>
             <section>
-                <a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+                {{-- <a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a> --}}
                 <div class="content">
                     <div class="inner">
-                        <h2>Ultricies aliquam</h2>
+                        <h2>Project 3</h2>
                         <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
                         <ul class="actions">
-                            <li><a href="generic.html" class="button">Learn more</a></li>
+                            <li><a href="generic.html" class="button">Demo</a></li>
+                            <li><a href="generic.html" class="button">Github</a></li>
                         </ul>
                     </div>
                 </div>
@@ -84,7 +86,7 @@
         </section>
 
         <!-- Two -->
-        <section id="two" class="wrapper style3 fade-up">
+        {{-- <section id="two" class="wrapper style3 fade-up">
             <!-- You can keep the content of section two unchanged -->
             <!-- Blade doesn't require modifications in this part -->
             <div class="inner">
@@ -126,7 +128,7 @@
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Three -->
         <section id="three" class="wrapper style1 fade-up">
@@ -195,7 +197,7 @@
     <footer id="footer" class="wrapper style1-alt">
         <div class="inner">
             <ul class="menu">
-                <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>&copy; 2024 Aina Zuhairah. All rights reserved.</li>
             </ul>
         </div>
     </footer>

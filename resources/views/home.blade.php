@@ -48,11 +48,14 @@
                 {{-- <a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a> --}}
                 <div class="content">
                     <div class="inner">
-                        <h2>Project 1</h2>
-                        <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+                        <h2>Pre-Interview Assignment</h2>
+                        <p>Write a password generator which is able to have small, capital letters, numbers, symbols and minimum length. The generator can customize it such as small, capital letters, numbers and minimum length or all above.
+                            Symbols: ['!', '#', '$', '%', '&', '(', ')', '*', '+', '@', '^']
+                                Print out the password.
+                            </p>
                         <ul class="actions">
-                            <li><a href="generic.html" class="button">Demo</a></li>
-                            <li><a href="generic.html" class="button">Github</a></li>
+                            <li><a href="/password" class="button">Password Generator</a></li>
+                            <li><a href="generic.html" class="button">The code</a></li>
                         </ul>
                     </div>
                 </div>
@@ -62,10 +65,10 @@
                 <div class="content">
                     <div class="inner">
                         <h2>Project 2</h2>
-                        <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+                        <p>Simple automatic pizza ordering program</p>
                         <ul class="actions">
-                            <li><a href="generic.html" class="button">Demo</a></li>
-                            <li><a href="generic.html" class="button">Github</a></li>
+                            <li><a href="/order" class="button">Order your Pizza here 🍕</a></li>
+                            <li><a href="generic.html" class="button">The code</a></li>
                         </ul>
                     </div>
                 </div>
